@@ -1,6 +1,7 @@
 # basic-banking-system
 
 #The Sparks Foundation Rotational Internship Program
+@GRIPJANUARY22
 
 This is my internship project on Basic Banking System made using technologies like HTML, CSS, JS and Bootstrap as front end part and PHP as back end part.
 MySQL has been used as the database.
