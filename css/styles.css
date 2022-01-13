@@ -1,0 +1,138 @@
+
+body {
+  font-family: "Montserrat";
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat-Bold";
+}
+
+p {
+  color: #8f8f8f;
+}
+
+/* Headings */
+
+.heading {
+  font-family: 'Nunito', sans-serif;
+  font-size: 2.0rem;
+  font-weight: 900;
+  line-height: 1.2;
+  text-align: center;
+  padding: 150px 0px 0px 50px;
+}
+
+
+/* Containers */
+
+.container-fluid{
+  padding: 0% 5% 0% 5%;
+}
+
+/* Sections */
+
+.colored-section {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+.white-section {
+  background-color: #fff;
+}
+
+/* Navigation Bar */
+
+.navbar {
+  padding: 0 0 0.5rem;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+}
+
+
+#title .container-fluid {
+  padding: 0% 12%;
+}
+
+.bank-img{
+  padding-right: 8px;
+}
+
+
+.icon {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+
+.btns-button {
+  margin: 5% 3% 5% 0;
+  border-color: #FFAD60;
+}
+
+.btns-button:hover{
+  background-color: #ef8172;
+}
+
+
+/* Footer Section */
+
+
+.social-icon {
+  margin: 10px 10px;
+}
+
+@media (max-width: 1028px) {
+
+  #title {
+    text-align: center;
+  }
+
+  .title-image {
+    position: static;
+    transform: rotate(0);
+  }
+}
+
+.cus-title{
+  font-family: "Montserrat-Bold";
+  text-align: center;
+  color: #072227;
+  padding: 10px 0px 0px 0px;
+}
+
+.table-prop{
+  color: #072227;
+}
+
+.trans{
+  background-color: #ef8172;
+}
+
+.transferTo .amount{
+  color: #072227;
+}
+
+.transfer-btn{
+  border-color: #FFAD60;
+}
+
+.transfer-btn:hover{
+  background-color: #ef8172;
+}
